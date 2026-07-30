@@ -1,0 +1,9 @@
+{
+  "status": "verified",
+  "unit_tests_passed": 3,
+  "end_to_end_pipeline_completed": true,
+  "generated_rows": 10000,
+  "anomaly_rate": 0.04,
+  "selected_safety_candidate": "Neural Net Baseline",
+  "main_report": "outputs/REPORT.md"
+}
